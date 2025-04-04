@@ -175,3 +175,4 @@ cython_debug/
 
 # My_ignore
 data_delete/
+data_ignored/
